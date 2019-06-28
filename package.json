@@ -19,5 +19,6 @@
   "homepage": "https://github.com/Karola94/temp_converter#readme",
   "devDependencies": {
     "browser-sync": "^2.26.7"
-  }
+  },
+  
 }
